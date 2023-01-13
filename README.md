@@ -2,7 +2,7 @@
 
 Simple .VBS script that will make Phyrox the default browser. Modfied version of the original "FirefoxPortable.vbs" created by Ramesh Srinivasan for Winhelponline.com. All the credits (and thanks) to him.
 
-I only modified the names to match the Phyrox executable name. If you want to have Firefox logo instead of Phyrox one, you need to modify this line on the .vbs:
+I only changed the names to match the Phyrox executable name. If you want to have Firefox logo instead of Phyrox one, you need to modify this line on the .vbs:
 
 sIconPath = sAppPath & "\phyrox-portable.exe"
 
